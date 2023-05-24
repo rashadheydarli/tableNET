@@ -16,8 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="UserController\" />
-    <Folder Include="View\" />
-    <Folder Include="View\Shared\" />
-    <Folder Include="View\Home\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="Views\Home\" />
   </ItemGroup>
 </Project>
